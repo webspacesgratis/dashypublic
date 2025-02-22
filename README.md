@@ -4,7 +4,17 @@
 
 Public repository for Dashy bug reports and feature requests. The source code is private - join our dev team to contribute directly.
 
-## Current Version: 0.9.2
+## Current Version: 0.10.1
+
+### What's New in 0.10.1
+
+- ✨ New server management system with terminal integration
+- 📁 Improved file manager with progress tracking
+- 🔄 New overlay system for file operations
+- 📅 Server renewal management interface
+- 🛠️ Utility functions for server management
+- 🌐 Updated translation system
+- 🧹 Code cleanup and optimization
 
 ### Reporting a Bug 🐛
 
